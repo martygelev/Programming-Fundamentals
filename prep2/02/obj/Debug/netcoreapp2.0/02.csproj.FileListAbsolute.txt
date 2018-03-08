@@ -1,0 +1,11 @@
+/Users/martingelev/Desktop/SoftUni/Programming Fundamentals/prep2/02/bin/Debug/netcoreapp2.0/02.deps.json
+/Users/martingelev/Desktop/SoftUni/Programming Fundamentals/prep2/02/bin/Debug/netcoreapp2.0/02.runtimeconfig.json
+/Users/martingelev/Desktop/SoftUni/Programming Fundamentals/prep2/02/bin/Debug/netcoreapp2.0/02.runtimeconfig.dev.json
+/Users/martingelev/Desktop/SoftUni/Programming Fundamentals/prep2/02/bin/Debug/netcoreapp2.0/02.dll
+/Users/martingelev/Desktop/SoftUni/Programming Fundamentals/prep2/02/bin/Debug/netcoreapp2.0/02.pdb
+/Users/martingelev/Desktop/SoftUni/Programming Fundamentals/prep2/02/obj/Debug/netcoreapp2.0/02.csproj.CoreCompileInputs.cache
+/Users/martingelev/Desktop/SoftUni/Programming Fundamentals/prep2/02/obj/Debug/netcoreapp2.0/02.AssemblyInfoInputs.cache
+/Users/martingelev/Desktop/SoftUni/Programming Fundamentals/prep2/02/obj/Debug/netcoreapp2.0/02.AssemblyInfo.cs
+/Users/martingelev/Desktop/SoftUni/Programming Fundamentals/prep2/02/obj/Debug/netcoreapp2.0/02.dll
+/Users/martingelev/Desktop/SoftUni/Programming Fundamentals/prep2/02/obj/Debug/netcoreapp2.0/02.pdb
+/Users/martingelev/Desktop/SoftUni/Programming Fundamentals/prep2/02/obj/Debug/netcoreapp2.0/02.csprojResolveAssemblyReference.cache

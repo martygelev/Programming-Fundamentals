@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_Price_Change_Alert", "11_Price_Change_Alert.csproj", "{587E9061-ED27-4ABF-809E-8DF7B28968FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{587E9061-ED27-4ABF-809E-8DF7B28968FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587E9061-ED27-4ABF-809E-8DF7B28968FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587E9061-ED27-4ABF-809E-8DF7B28968FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587E9061-ED27-4ABF-809E-8DF7B28968FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
